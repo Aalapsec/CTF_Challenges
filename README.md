@@ -9,4 +9,4 @@ We're going to create CTF framework for specially us (Me & my friend Vivek), thu
 ----------------------------------------------------------------------------------------------------------------------------
 
 We've not given much priority to give you the exact CTF environment [demo site].
-There are five challenge tiles we have included in demo site, but in all challenge site you'll see only one challenge.
+There are five challenge tiles we have included in demo site, but in all challenge tiles you'll see only one challenge.
