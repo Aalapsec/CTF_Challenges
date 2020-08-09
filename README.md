@@ -1,5 +1,12 @@
 # CTF_Challenges
 
-In order to Learn I'm just creating challenges for CTFs. (It also needs some knowledge to create CTF challenges, so...)
+In order to learn, I'm just providing just demo challenges for CTFs.
+You guys can expect CTF event in month of October-November.
 
-In future, I would like to host CTFs so consider this as small building blocks.
+We're going to create CTF framework for specially us (Me & my friend Vivek), thus the VidcoCTF site which I've kept public is for your idea only. (At least run it on local machine, you'll surely get some ideas and ways to prepare for the same)
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+We've not given much priority to give you the exact CTF environment [demo site].
+There are five challenge tiles we have included in demo site, but in all challenge site you'll see only one challenge.
